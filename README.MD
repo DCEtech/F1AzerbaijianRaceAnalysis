@@ -19,5 +19,5 @@
 Technologies used in the project:
 
 *   Python
-*   Fasf1
+*   Fastf1
 *   MatplotLib
