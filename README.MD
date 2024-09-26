@@ -12,7 +12,11 @@
 
 <img src="images/Overtake.png" alt="project-screenshot">
 
+<h2>Project Article:</h2>
 
+You can checkout the Anlysis article on my website at the link below: 
+
+https://www.danielcejudo.com/that-s-why-i-love-data-f1-telemetry-analysis.html
 
 <h2>💻 Built with</h2>
 
